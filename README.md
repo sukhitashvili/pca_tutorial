@@ -1,2 +1,2 @@
 # PCA Algorithm From Scratch 
-### PCA implemented using only matrix-vector operations
+### PCA implementation using only matrix-vector operations.
